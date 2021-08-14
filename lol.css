@@ -1,0 +1,48 @@
+body {
+    background-image: url("/ass/21593.jpg");
+    text-align: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+  }
+  
+  h1 {
+      font-family: 'Courier New', Courier, monospace;
+      text-align: center;
+      color: tomato;
+      font-size: 50px;
+  }
+  button {
+    text-align: left;
+    color: olivedrab;
+    background-image: url("zero.jpg");
+    padding: 15px 32px;
+    font-size: 20px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 16px;
+    text-shadow: #333;
+    box-shadow: #333;
+    text-align: center; /* This is Fucking too long / ยาวไปละไอสัส */
+  }
+  .topnav {
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  .topnav a {
+    float: left;
+    color: #f2f2f2;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+  }
+  .topnav a.active {
+    background-color: #04AA6D;
+    color: white;
+  }
+  .minecraft {
+    color: white;
+    background-color: #333;
+  }
